@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahid Ali</h1>
 <h3 align="center">A MERN Stack developer from India</h3>
 
-<imgalign="right" alt="coding" width="400 src="https://storyset.com/illustration/code-typing/pana/animate?share=49860" />
+<img align="right" alt="coding" width="400 src="https://storyset.com/illustration/code-typing/pana/animate?share=49860" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid-ali&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-ali" /> </p>
 
 - 🌱 I’m currently learning **React Native**
